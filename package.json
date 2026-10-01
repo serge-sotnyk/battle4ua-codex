@@ -1,0 +1,9 @@
+{
+  "name": "front-and-rear",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Фронт і тил — локальна покрокова стратегія",
+  "scripts": { "start": "node server.mjs", "dev": "node server.mjs", "test": "node --test", "check": "node --check src/engine.js && node --check src/app.js && node --check server.mjs" },
+  "engines": { "node": ">=18" }
+}
