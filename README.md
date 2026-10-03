@@ -2,12 +2,14 @@
 
 Самостійна браузерна покрокова стратегія, натхненна простою картою та перекиданням сил у [«Битві за Україну» MaxD](https://demo.devs.mx/ukraine/). Усі код, схематична географія, графіка інтерфейсу та правила цієї реалізації створені заново.
 
+**Грати онлайн:** https://serge-sotnyk.github.io/battle4ua-codex/
+
 ## Запуск
 
 Потрібен **Node.js 18 або новіший**. Встановлювати пакети не потрібно.
 
 ```sh
-cd /Users/s.sotnyk/repos/sotnyk/battle4ua-codex
+git clone https://github.com/serge-sotnyk/battle4ua-codex.git && cd battle4ua-codex
 npm start
 ```
 
